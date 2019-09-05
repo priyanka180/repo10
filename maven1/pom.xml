@@ -1,0 +1,7 @@
+<project>
+<artifactId>HelloWorld</artifactId>
+<groupId>org.priya</groupId>
+<modelVersion>4.0.0</modelVersion>
+<version>1.0.0</version>
+<packaging>jar</packaging>
+</project>
